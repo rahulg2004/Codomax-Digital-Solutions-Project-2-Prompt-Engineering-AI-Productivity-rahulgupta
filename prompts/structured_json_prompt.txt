@@ -1,0 +1,24 @@
+STRUCTURED JSON OUTPUT
+
+Prompt:
+
+Extract information from the text and return ONLY valid JSON.
+
+Required fields:
+name
+email
+skills
+experience
+education
+
+Text:
+Rahul is a Computer Science student with experience in Python, C++, Machine Learning and Generative AI. He has completed multiple AI internships.
+
+Expected structure:
+{
+  "name": "Rahul",
+  "email": "",
+  "skills": ["Python", "C++", "Machine Learning", "Generative AI"],
+  "experience": "Multiple AI internships",
+  "education": "Computer Science"
+}

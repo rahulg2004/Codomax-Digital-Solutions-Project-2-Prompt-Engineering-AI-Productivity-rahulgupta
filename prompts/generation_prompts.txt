@@ -1,0 +1,13 @@
+REUSABLE CONTENT GENERATION WORKFLOW
+
+You are a professional content writer.
+
+Generate a LinkedIn post about:
+[TOPIC]
+
+Requirements:
+- Professional tone
+- 100-150 words
+- Start with an engaging sentence
+- Mention key learning outcomes
+- Include 5 relevant hashtags

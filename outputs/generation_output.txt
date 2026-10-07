@@ -1,0 +1,11 @@
+Sample LinkedIn Post
+
+🚀 Learning how effective prompt engineering can improve AI productivity!
+
+In this module, I explored zero-shot and few-shot prompting, structured outputs, prompt constraints, AI-assisted coding and prompt evaluation.
+
+I also created reusable workflows for summarisation, classification, content generation, coding assistance and research.
+
+The biggest takeaway was that better instructions, context and constraints can make AI responses more consistent and useful.
+
+#PromptEngineering #GenerativeAI #AIProductivity #Python #ArtificialIntelligence

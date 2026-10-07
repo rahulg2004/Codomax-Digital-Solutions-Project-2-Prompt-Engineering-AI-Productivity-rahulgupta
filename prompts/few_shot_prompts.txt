@@ -1,0 +1,39 @@
+FEW-SHOT PROMPTING
+
+1. Sentiment Classification
+Classify messages as Positive or Negative.
+
+Example 1:
+Message: The application is excellent and very easy to use.
+Classification: Positive
+
+Example 2:
+Message: The application crashes frequently.
+Classification: Negative
+
+Now classify:
+Message: The application works perfectly and saves me a lot of time.
+
+2. Email Classification
+Example 1:
+Message: I would like to know the application deadline.
+Category: Query
+
+Example 2:
+Message: I am unhappy because my certificate has not arrived.
+Category: Complaint
+
+Now classify:
+Message: Thank you for helping me complete the application.
+
+3. Career Classification
+Example 1:
+Text: I want to apply for a Python developer role.
+Category: Career
+
+Example 2:
+Text: Please explain recursion in simple terms.
+Category: Education
+
+Now classify:
+Text: I am preparing my resume for an AI internship.

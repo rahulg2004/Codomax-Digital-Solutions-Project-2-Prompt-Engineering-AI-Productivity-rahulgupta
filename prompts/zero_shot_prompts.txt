@@ -1,0 +1,16 @@
+ZERO-SHOT PROMPTING
+
+1. Summarisation
+Summarise the following text in exactly 3 bullet points. Keep each bullet under 20 words.
+
+Text:
+Artificial Intelligence is transforming healthcare, finance, education and transportation by automating tasks and supporting better decision-making.
+
+2. Classification
+Classify the following customer message into exactly one category: Complaint, Query, Feedback, or Appreciation.
+
+Message:
+The application keeps crashing whenever I try to upload a file.
+
+3. Generation
+Generate a professional email requesting an internship opportunity at an AI company. Keep it under 150 words.

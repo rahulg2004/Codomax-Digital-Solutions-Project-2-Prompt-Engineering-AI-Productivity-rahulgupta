@@ -1,0 +1,15 @@
+REUSABLE CLASSIFICATION WORKFLOW
+
+You are a text classification assistant.
+
+Classify the input into exactly one of these categories:
+1. Technical
+2. Education
+3. Career
+4. Finance
+5. General
+
+Return the category and a one-line explanation.
+
+Input:
+[PASTE TEXT HERE]

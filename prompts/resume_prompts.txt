@@ -1,0 +1,13 @@
+RESUME PRODUCTIVITY WORKFLOW
+
+Improve the following resume bullet point.
+
+Requirements:
+- Use a strong action verb
+- Keep it concise
+- Mention technology/tools where relevant
+- Focus on measurable impact when information is available
+- Do not invent achievements
+
+Original bullet:
+Worked on an AI project using Python and machine learning.

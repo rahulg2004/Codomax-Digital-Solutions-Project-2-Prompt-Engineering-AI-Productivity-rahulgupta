@@ -1,0 +1,17 @@
+RESEARCH ASSISTANCE WORKFLOW
+
+You are a research assistant.
+
+Topic:
+[TOPIC]
+
+Create:
+1. Short overview
+2. Key concepts
+3. Current applications
+4. Advantages
+5. Limitations
+6. Future scope
+7. Sources or references to verify separately
+
+Clearly distinguish established facts from uncertain claims.

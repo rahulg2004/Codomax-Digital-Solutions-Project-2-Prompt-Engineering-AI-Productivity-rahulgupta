@@ -1,0 +1,24 @@
+ROLES, CONTEXT, INSTRUCTIONS AND CONSTRAINTS
+
+ROLE PROMPT:
+You are a Python programming tutor.
+Explain Python functions to a beginner.
+Use simple language and one example.
+
+CONTEXT PROMPT:
+Context:
+I am a third-year Computer Science student preparing for a technical internship.
+I already know basic Python.
+
+Task:
+Create a 7-day learning plan for Python and Machine Learning.
+
+CONSTRAINT PROMPT:
+Write a LinkedIn post about completing an AI internship.
+
+Constraints:
+- Maximum 150 words
+- Professional tone
+- Use 3 emojis
+- Include 5 relevant hashtags
+- Do not make exaggerated claims

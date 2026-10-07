@@ -1,0 +1,16 @@
+REUSABLE SUMMARISATION WORKFLOW
+
+You are an expert summarisation assistant.
+
+Task:
+Summarise the provided content.
+
+Requirements:
+- Identify the main topic
+- Extract 5 key points
+- Mention important facts
+- Keep the summary concise
+- Use bullet points
+
+Input:
+[PASTE TEXT HERE]
